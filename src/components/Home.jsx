@@ -9,7 +9,7 @@ import Path from "./Home/Path";
 const Home = () => {
   return (
     <>
-      <div className="flex">
+      <div className="flex w-[100%] flex-col-reverse sm:flex sm:flex-row">
         <HeroLeft />
         <HeroRight />
       </div>

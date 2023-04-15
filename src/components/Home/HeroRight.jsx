@@ -4,7 +4,7 @@ import img from "../../../public/heroSection.svg"
 const HeroRight = () => {
   return (
     <>
-      <div className="flex flex-col w-[50%] relative">
+      <div className="w-[100%] relative flex-row flex sm:flex sm:flex-col sm:w-[50%] sm:relative">
         <Nav />
         <div className=" absolute bottom-20 left-[-130px]">
           <img className=" w-3/5" src={img} alt="" />
