@@ -13,6 +13,7 @@ const Home = () => {
         <HeroLeft />
         <HeroRight />
       </div>
+      
       <div>
         <Lang_Pj/>
       </div>
