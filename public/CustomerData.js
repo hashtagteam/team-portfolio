@@ -2,12 +2,12 @@ import person from "./person.jpg"
 export const reviewData = [
     {
         id:1,
-        name:"GOOD JOB",
+        name:"Clean and Fast",
         img: person
     },
     {
         id:2,
-        name:"GOOD JOB",
+        name:"Strong Team",
         img: person
     },
     {
@@ -17,7 +17,7 @@ export const reviewData = [
     },
     {
         id:4,
-        name:"GOOD JOB"
+        name:"Successful Team"
         ,img: person
 
     },
